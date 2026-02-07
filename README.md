@@ -47,7 +47,7 @@ Or with flag and arguments
 Make sure you have Go installed, then run:
 
 ```bash
-go install github.com/username/dsame@latest
+go install github.com/alb-soul/dsame@latest
 ```
 
 Make sure $GOPATH/bin or $HOME/go/bin is in your PATH.
